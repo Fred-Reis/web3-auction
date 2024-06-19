@@ -1,0 +1,33 @@
+.connect-cta {
+  border: 2px solid #fff;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #545454;
+  background-color: orange ;
+
+}
+
+.connect-cta:hover {
+  background-color: transparent;
+  color: orange;
+  border-color:orange ;
+}
+
+.button {
+  background: transparent;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: #fff;
+  color: #545454;
+  border-color:#545454 ;
+}
+
